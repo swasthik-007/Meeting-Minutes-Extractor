@@ -1,0 +1,18 @@
+Team Sync – May 26
+
+Attendees: Ravi, Priya, Amit, Sarah
+
+Discussion Points:
+- We'll launch the new product on June 10.
+- Ravi to prepare onboarding docs by June 5.
+- Priya will follow up with logistics team on packaging delay.
+- Beta users requested a mobile-first dashboard.
+- Budget approved for additional developer resources.
+- Marketing campaign will start June 1st.
+
+Action Items:
+- Sarah to coordinate with design team for mobile UI mockups
+- Amit will handle the server deployment by June 8
+- Weekly status meetings every Tuesday at 10 AM
+
+Next Meeting: June 2nd, 2024
