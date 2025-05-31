@@ -9,7 +9,7 @@ export async function POST(request) {
     let meetingText = "";
     const contentType = request.headers.get("content-type");
 
-    // Handle different content types
+    // Handles different content types
     if (contentType?.includes("multipart/form-data")) {
       const formData = await request.formData();
       const file = formData.get("meeting_file");

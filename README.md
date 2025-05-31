@@ -28,7 +28,7 @@ An AI-powered web application that automatically extracts structured information
 ### 1. Clone & Install
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/swasthik-007/Meeting-Minutes-Extractor.git
 cd meeting-minutes-extractor
 npm install
 ```
@@ -63,8 +63,8 @@ npm start
 
 ### 4. Access the Application
 
-- **Web Interface**: http://localhost:3000
-- **API Endpoint**: http://localhost:3000/api/process-meeting
+- **Web Interface**: https://meeting-minutes-extractor.vercel.app/
+- **API Endpoint**: https://meeting-minutes-extractor.vercel.app/api/process-meeting
 
 ## API Testing
 
